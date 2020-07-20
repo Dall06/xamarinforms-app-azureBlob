@@ -1,0 +1,1 @@
+D:\Users\Lyev\Documents\Developed programs folders\C#\Xamarin Forms\xamarin-forms-app-azureBlob\AppAzureBlob\AppAzureBlob.UWP\AppAzureBlob.UWP.csproj;x86
